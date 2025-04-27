@@ -208,5 +208,3 @@ npm install chart.js@4.4.0 react-chartjs-2@5.2.0
 ---
 
   
----
-  
