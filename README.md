@@ -195,15 +195,7 @@ npm install chart.js@4.4.0 react-chartjs-2@5.2.0
 
 ---
 
-## Submission Guidelines
-
-- Push the entire source code (both frontend and backend) to a GitHub repository.
-- Include this README file at the root of the repository.
-- Share the GitHub repository link as per instructions.
-
----
-
-> **Made with using React, Node.js, Express, and MongoDB**
+> **Made with React, Node.js, Express, and MongoDB**
 
 ---
 
